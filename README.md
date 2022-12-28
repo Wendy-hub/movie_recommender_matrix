@@ -1,1 +1,3 @@
-# movie_recommender_matrix
+# movie recommender system using matrix decomposition
+## SVD++ 
+non-distributed
